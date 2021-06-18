@@ -1,0 +1,25 @@
+p{
+    color:red;
+    font-size:20px;
+}
+
+p{
+    color: blue;
+    font-size: 60px;
+}
+
+p{
+    color: rgb(4, 0, 255);
+    font-size: 60px;
+}
+
+
+#parrafoUnico{
+    color: green;
+    font-size:40px;
+}
+
+.grupoParrafos{
+    color: rgb(128, 0, 79);
+    font-size: 25px;
+}
